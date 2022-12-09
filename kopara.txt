@@ -1,6 +1,2 @@
 twoja stara wielka jak kopara
-<<<<<<< HEAD
-a twoj stary jest jary 
-=======
-co ty pierdolisz
->>>>>>> 32078a2a4a820698def0f7ac5038a23e305a13a7
+chuj ci w zeby
